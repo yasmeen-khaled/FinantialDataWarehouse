@@ -10,3 +10,4 @@ It is based on the tutorial:
 
 The solution simulates a small financial data warehouse, including staging, transformations, and loading of fact/dimension tables.
 
+Tutorial Link: https://www.youtube.com/watch?v=qmSsZhaFcZw
